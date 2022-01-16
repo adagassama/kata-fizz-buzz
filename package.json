@@ -1,0 +1,10 @@
+{
+  "name": "kata-fizz-buzz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Adama Gassama"
+}
